@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Health Chatbot",
+  "description": "A simple and friendly health chatbot that provides general suggestions based on user-described symptoms, with a clear disclaimer that it is not a medical professional.",
+  "requestFramePermissions": []
+}
